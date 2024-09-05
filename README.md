@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# Widget Pomodoro Flexível
 
 Um aplicativo de desktop simples e eficaz para gerenciamento de tempo usando a técnica Pomodoro.
 
