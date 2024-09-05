@@ -48,9 +48,22 @@ Se você deseja modificar o código-fonte ou criar seu próprio executável, sig
 3. Para criar o executável:
    ````
    python build.py
+
    ```
 
 O executável será gerado na pasta `dist`.
 
-## Estrutura do Projeto
+---
+
+LINK: https://github.com/MrIagoUFV/PomodoroFlexivel
+
+ÍCONE (Para ser usado na imagem do projeto no portifólio):
+
+![Design sem nome (9)](https://github.com/user-attachments/assets/e2404edb-32a7-4e6e-8375-36299a0e696d)
+
+
+
+PRINT DA APLICAÇÃO (Para ser usado na imagem do da descrição do projeto portifólio):
+
+![Tava na pausa dos estudos](https://github.com/user-attachments/assets/a5f1ff33-8a64-4fbd-a0fb-edaa58f0699a)
 
