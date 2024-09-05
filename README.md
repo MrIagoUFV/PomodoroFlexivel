@@ -2,6 +2,9 @@
 
 Um aplicativo de desktop simples e eficaz para gerenciamento de tempo usando a técnica Pomodoro.
 
+![image](https://github.com/user-attachments/assets/0decf9a2-3162-40f0-9f4a-fbee2a9c9245)
+
+
 ## Características
 
 - Widget flutuante sempre visível
